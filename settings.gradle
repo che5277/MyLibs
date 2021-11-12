@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MyLibs"
 include ':app'
+include ':base'
